@@ -1,0 +1,23 @@
+.visited-image {
+  height: 250px;
+  width: 250px;
+}
+.remove-button {
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+.card-contents {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.flag-list {
+  width: 250px;
+  list-style: none;
+}
+.flag-list button {
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
